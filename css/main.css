@@ -63,6 +63,7 @@ body {
 
 
 #text-container {
+    position: relative;
     font-family: 'Raleway', sans-serif;
     display: inline-block;
     margin-top: 20px;
