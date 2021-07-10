@@ -227,11 +227,7 @@ a {
     }
     
     #block-container {
-        width: 90%;
-    }
-    
-    #text-container{
-        width: 90%;
+        width: 100%;
     }
 
 }
