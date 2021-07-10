@@ -26,6 +26,7 @@ body {
     border-radius: 7px;
     padding:  5px 20px;
     opacity: 0.92;
+    justify-content: center;
     -webkit-animation-duration: 2 s;
             animation-duration: 2 s;
     -webkit-box-shadow: 18px 11px 135px -25px black;
