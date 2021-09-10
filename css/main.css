@@ -201,6 +201,10 @@ footer:hover {
     font-size: 16px;
 }
 
+.small-link:hover {
+    text-decoration: none;
+}
+
 .highlight {
     color: #8b2f5f;
 }
