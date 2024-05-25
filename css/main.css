@@ -43,7 +43,7 @@ body {
     display: inline-block;
     margin-top: 25px;
     width: 200px;
-    height: 260px;
+    height: 200px;
     border-radius: 10px;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
